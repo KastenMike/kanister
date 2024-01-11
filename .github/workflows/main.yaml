@@ -13,7 +13,7 @@ jobs:
     - run: make go-mod-tidy
     - run: make go-mod-download
     - run: tar -cvf ./src.tar.gz ./ # preserve file permissions
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: src
         path: ./src.tar.gz
