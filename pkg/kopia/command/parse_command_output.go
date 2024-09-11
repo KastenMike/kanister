@@ -162,10 +162,8 @@ func sumSnapshotSizes(snapList []*snapshot.Manifest) (sum int64) {
 func ParseSnapshotManifestList(output string) ([]*snapshot.Manifest, error) {
 	snapInfoList := []*snapshot.Manifest{}
 
-	fmt.Printf("ParseSnapshotManifestList has output: %s\n", output)
-
 	if err := json.Unmarshal([]byte(output), &snapInfoList); err != nil {
-		return nil, errkit.Wrap(err, "Failed to unmarshal snapshot manifest list")
+		return nil, errkit.Wrap(err, "Failed to unmarshal snapshot manifest list - output was: "+output)
 	}
 
 	return snapInfoList, nil
