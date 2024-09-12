@@ -86,8 +86,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/GehirnInc/crypt v0.0.0-20190301055215-6c0105aabd46/go.mod h1:kC29dT1vFpj7py2OvG1khBdQpo3kInWP+6QipLbdngo=
 github.com/GehirnInc/crypt v0.0.0-20230320061759-8cc1b52080c5 h1:IEjq88XO4PuBDcvmjQJcQGg+w+UaafSy8G5Kcb5tBhI=
 github.com/GehirnInc/crypt v0.0.0-20230320061759-8cc1b52080c5/go.mod h1:exZ0C/1emQJAw5tHOaUDyY1ycttqBAPcxuzf7QbY6ec=
-github.com/KastenMike/kopia v0.0.0-20240912142108-5c53ac9437d8 h1:bi2w+8q6J2mwo0Mjx60NDRa8HPzjZTpgLQhdsNuUhWw=
-github.com/KastenMike/kopia v0.0.0-20240912142108-5c53ac9437d8/go.mod h1:1t6NcVQNwa5Ow/d8CwaHnHYgk5ojXPH9fcWbREubMKg=
+github.com/KastenMike/kopia v0.0.0-20240912142742-4f9cbcf88a89 h1:AylQxyyiN0TujkMIilfVjMW0ZdJd4/Td/mvyXxaWtLo=
+github.com/KastenMike/kopia v0.0.0-20240912142742-4f9cbcf88a89/go.mod h1:1t6NcVQNwa5Ow/d8CwaHnHYgk5ojXPH9fcWbREubMKg=
 github.com/MakeNowJust/heredoc v1.0.0 h1:cXCdzVdstXyiTqTvfqk9SDHpKNjxuom+DOlyEeQ4pzQ=
 github.com/MakeNowJust/heredoc v1.0.0/go.mod h1:mG5amYoWBHf8vpLOuehzbGGw0EHxpZZ6lCpQ4fNJ8LE=
 github.com/Masterminds/goutils v1.1.1 h1:5nUrii3FMTL5diU80unEVvNevw1nH4+ZV4DSLVJLSYI=

@@ -5,7 +5,7 @@ go 1.22.7
 replace (
 	github.com/googleapis/gnostic => github.com/googleapis/gnostic v0.4.1
 	github.com/graymeta/stow => github.com/kastenhq/stow v0.2.6-kasten.1.0.20231101232131-9321daa23aae
-	github.com/kopia/kopia => github.com/KastenMike/kopia v0.0.0-20240912142108-5c53ac9437d8
+	github.com/kopia/kopia => github.com/KastenMike/kopia v0.0.0-20240912142742-4f9cbcf88a89
 	github.com/rook/operator-kit => github.com/kastenhq/operator-kit v0.0.0-20180316185208-859e831cc18d
 	golang.org/x/net => golang.org/x/net v0.23.0
 	gopkg.in/check.v1 => github.com/kastenhq/check v0.0.0-20180626002341-0264cfcea734
